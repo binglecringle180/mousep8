@@ -6,7 +6,7 @@ test program for the mouse\
 left to draw
 right to set col to 0 (erase)
 middle to erase all
-hold ❎ amd left to set bg
+hold ❎ and left to set bg
 🅾️ to undo
 ❎ and 🅾️ to undo last size steps
 ❎ and ⬆️/⬇️ to change size by 5
