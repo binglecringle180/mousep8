@@ -1,4 +1,4 @@
-# mousep8
+# [mousep8](https://binglecringle180.github.io/mousep8/)
 ![label](label.png "label")\
 test program for the mouse\
 (this has a krillion shortcuts in it so beware)\
