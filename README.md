@@ -13,3 +13,4 @@ hold ❎ and left to set bg
 tab to increment layer
 ❎ and tab to decrement
 hold q to only show current layer
+```
