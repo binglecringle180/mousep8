@@ -14,3 +14,5 @@ tab to increment layer
 ❎ and tab to decrement
 hold q to only show current layer
 ```
+also found on:\
+[PICO-8 BBS](https://www.lexaloffle.com/bbs/?tid=145382) [itch.io](https://infurity.itch.io/mousep8)
